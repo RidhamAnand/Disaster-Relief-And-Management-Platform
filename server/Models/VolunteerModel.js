@@ -17,7 +17,6 @@ const volunteerSchema = new mongoose.Schema({
     status: { type: String, default: 'available' },
     lastActive: { type: Date, default: Date.now }
   },
-  skills: [{ type: String }],
   historicalData: [{
     problemId: {
       type: mongoose.Schema.Types.ObjectId,
