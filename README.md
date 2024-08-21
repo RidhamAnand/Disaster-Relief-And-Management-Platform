@@ -35,4 +35,4 @@ The system is optimized to work efficiently even under constrained network condi
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## **Contact**
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please contact [ridham.anand23@vit.edu](ridham.anand23@vit.edu).
