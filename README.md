@@ -15,7 +15,7 @@ This project is a real-time disaster management platform designed to connect vic
 - **Frontend:** React.js
 - **Backend:** Node.js (Express.js)
 - **Database:** MongoDB with GeoJSON indexing
-- **AI/ML Models:** TensorFlow.js for problem classification and severity scoring
+- **AI/ML Models:** TensorFlow for problem classification and severity scoring
 - **Real-Time Communication:** MQTT for topic-based updates and Firebase for push notifications
 - **Geospatial Services:** Google Maps API
 
