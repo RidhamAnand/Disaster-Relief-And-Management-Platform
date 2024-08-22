@@ -122,34 +122,6 @@ const AuthForm = ({ isLogin }) => {
                 margin="normal"
                 required
               />
-              <TextField
-                label="Location"
-                name="location"
-                type="text"
-                fullWidth
-                margin="normal"
-                required
-              />
-              {role === "volunteer" && (
-                <>
-                  <TextField
-                    label="Preferences"
-                    name="preferences"
-                    type="text"
-                    fullWidth
-                    margin="normal"
-                    required
-                  />
-                  <TextField
-                    label="Availability"
-                    name="availability"
-                    type="text"
-                    fullWidth
-                    margin="normal"
-                    required
-                  />
-                </>
-              )}
             </>
           )}
           <Button
