@@ -1,7 +1,12 @@
 import React from "react";
+import AuthForm from "../../../components/AuthForm";
 
 const LogInPage = () => {
-  return <div>LogInPage</div>;
+  return (
+    <div>
+      <AuthForm isLogin={true} />
+    </div>
+  );
 };
 
 export default LogInPage;

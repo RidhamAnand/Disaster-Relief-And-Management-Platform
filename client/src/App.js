@@ -5,13 +5,13 @@ import LogInPage from "./Pages/auth/login/LogInPage";
 
 function App() {
   return (
-    <>
+    <div>
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/sign-in" element={<SignUpPage />} />
-        <Route path="/sign-up" element={<LogInPage />} />
+        <Route path="/signup" element={<SignUpPage />} />
+        <Route path="/login" element={<LogInPage />} />
       </Routes>
-    </>
+    </div>
   );
 }
 
